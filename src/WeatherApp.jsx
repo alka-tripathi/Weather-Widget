@@ -13,7 +13,6 @@ const WeatherApp=()=>{
         tempMax:39.9,
         feelsLike:40,
         weather:"haze",
-
        
     });
 
